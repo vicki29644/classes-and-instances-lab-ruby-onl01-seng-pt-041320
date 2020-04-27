@@ -3,6 +3,6 @@ end
 
 adele_goldberg = Person.new
 
-A = Person.new
+ = Person.new
 
 
